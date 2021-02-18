@@ -1,0 +1,9 @@
+1. Sample App using Fauna and Deployed to Digital Ocean 
+2. Advantages of Fauna for Throughput and Contention 
+3. Why Fauna doesn’t have connection pooling problems 
+4. Install and Configure FaunaDB on Raspberry pi  
+5. Rust Quick start - FaunaDB and rust 
+6. References - what they are and how to retrieve them in FaunaDB 
+7. How to Use FauanaDB for your XYZ headless CMS 
+8. How to build an xyz (newsletter for example) website with FaunaDB 
+9. Implementing RI with Fauna including Examples 
