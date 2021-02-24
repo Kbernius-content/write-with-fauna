@@ -1,12 +1,11 @@
-# write-with-fauna
-Resources, topics, and tips to help you if you are interested in participating in our Write with Fauna or are currently writing for us. 
+If you are interested in participating in our Write with Fauna or are currently writing for us. 
 
 
 If you are building full-stack serverless apps with JavaScript frameworks, serverless functions, 3rd party APIs, GraphQL, and Fauna, we invite you to participate in the paid Write with Fauna program.
 
 Join in on the serverless community discussion, and grow your personal brand in the process. We pay our writers between $200-500 per article and promote content across our social channels–including a 75k+ audience on Twitter.
 
-## We are looking for articles that cover: 
+## We are looking for articles that generally cover: 
 
 Step-by-step tutorials using Fauna and JavaScript frameworks including React, Angular, Vue, RedwoodjS, Svelte, Next.JS, and Gatsby 
 Articles that illustrate features of Fauna including, temporality, streaming, multi-tenancy, etc. 
@@ -16,18 +15,8 @@ Compare and contrast stacks and various frameworks (pros and cons of each)
 Data modeling strategies applied to real-world business applications 
 Tips on using Fauna from your own experience 
 
-Front end topics that we've recently published: 
 
-Collaborative Editing with Gridsome and Fauna 
-Building a Minimal Viable Stack with RedwoodJS and Fauna 
-
-Backend topics that we've recently published: 
-
-Geospatial Queries on Fauna 
-Modeling Data in Fauna 
-How to build a CRUD REST API with Go, Gin, and Fauna 
- 
-## How the Program Works: 
+ ## How the Program Works: 
 
 Have an idea that you’d like to write about? Great! Here’s what to expect: 
 Submit your proposal topic along with an abstract and any relevant or recently published articles. 
