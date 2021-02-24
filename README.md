@@ -1,4 +1,4 @@
-If you are building full-stack serverless apps with JavaScript frameworks, serverless functions, 3rd party APIs, GraphQL, and Fauna, we invite you to participate in the paid Write with Fauna program.
+If you are building full-stack serverless apps serverless functions, 3rd party APIs, GraphQL, and Fauna, we invite you to participate in the paid Write with Fauna program.
 
 Join in on the serverless community discussion, and grow your personal brand in the process. We pay our writers between $200-500 per article and promote content across our social channels–including a 75k+ audience on Twitter.
 
@@ -24,7 +24,7 @@ Write and send your article in a Google doc when you’re done.
 The Fauna team and technical editors will provide reviews until the article is ready for publication on the agreed-upon outlet and date.  
 Once you’re post is published you will send an invoice to our team and get paid! 
 
-Note: The above is the general guidelines for our process, but we understand you likely have more questions. Please review our FAQ for additional details about publishing rights, reward amounts, formatting, and review cycles. 
+Note: The above is the general guidelines for our process, but we understand you likely have more questions. Please review our FAQ below for additional details about publishing rights, reward amounts, formatting, and review cycles. 
  
 Interested, but still have questions before submitting a topic? Please see our FAQ below and reach out to write@fauna.com with any additional questions and we will get back to you! 
 
