@@ -1,4 +1,4 @@
-Sample Apps/Tutorials: 
+## Sample Apps/Tutorials: 
 
 Sample App using Fauna and Deployed to Digital Ocean - preferably with Go, Java, or Python frameworks and bonus points for creative apps outside of a to-list 
 Rust Quick start - Fauna and rust 
@@ -9,7 +9,7 @@ Tutorial: Building a secure serverless employee portfolio with React and Fauna w
 Tutorial: how to do triggers in faunadb (via temporality) 
 
 
-Fauna product usage: 
+## Fauna product usage: 
 
 Advantages of Fauna for Throughput and Contention 
 Why Fauna doesn’t have connection pooling problems 
@@ -23,7 +23,7 @@ Using Fauna's streaming to do UI redraws
 Using Consistency Levels in FaunaDB- What, When, How
 How Fauna's temporality bridges the gap between static sites and dynamic Jamstacks
 
-Thought leadership: 
+## Thought leadership: 
 
 Dist Databases: Distributed system database tricks 101
 Dist Databases: A history of distributed database limitations 
