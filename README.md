@@ -4,8 +4,8 @@ Join in on the serverless community discussion, and grow your personal brand in 
 
 ## We are looking for articles that generally cover: 
 
-Step-by-step tutorials using Fauna and JavaScript frameworks including React, Angular, Vue, RedwoodjS, Svelte, Next.JS, and Gatsby 
-Articles that illustrate features of Fauna including, temporality, streaming, multi-tenancy, etc. 
+Step-by-step tutorials using Fauna and various programming frameworks including Go, Java, Python, React, Angular, Vue, RedwoodjS, Svelte, Next.JS, and Gatsby 
+Articles that illustrate features of Fauna including temporality, streaming, and multi-tenancy,
 Larger architectural discussions or best practice tips for building full-stack, serverless apps 
 GraphQL data modeling strategies along with real-world application and examples 
 Compare and contrast stacks and various frameworks (pros and cons of each) 
