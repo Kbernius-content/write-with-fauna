@@ -5,11 +5,17 @@ Join in on the serverless community discussion, and grow your personal brand in 
 ## We are looking for articles that generally cover: 
 
 Step-by-step tutorials using Fauna and various programming frameworks including Go, Java, Python, React, Angular, Vue, RedwoodjS, Svelte, Next.JS, and Gatsby 
+
 Articles that illustrate features of Fauna including temporality, streaming, and multi-tenancy,
+
 Larger architectural discussions or best practice tips for building full-stack, serverless apps 
+
 GraphQL data modeling strategies along with real-world application and examples 
+
 Compare and contrast stacks and various frameworks (pros and cons of each) 
+
 Data modeling strategies applied to real-world business applications 
+
 Tips on using Fauna from your own experience 
 
 *Please take a look at our backlog topic list for more ideas 
@@ -17,11 +23,17 @@ Tips on using Fauna from your own experience
  ## How the Program Works: 
 
 Have an idea that you’d like to write about? Great! Here’s what to expect: 
+
 Submit your proposal topic to write@fauna.com along with an abstract and any relevant or recently published articles. 
+
 The Fauna editorial team will review your submission promptly, and if selected, you will be contacted and asked to provide a more detailed outline. You and the team will also discuss scheduling, placement, and reward amount at this time.  
+
 Sign a written contract with applicable reward amounts. 
+
 Write and send your article in a Google doc when you’re done. 
+
 The Fauna team and technical editors will provide reviews until the article is ready for publication on the agreed-upon outlet and date.  
+
 Once you’re post is published you will send an invoice to our team and get paid! 
 
 Note: The above is the general guidelines for our process, but we understand you likely have more questions. Please review our FAQ below for additional details about publishing rights, reward amounts, formatting, and review cycles. 
