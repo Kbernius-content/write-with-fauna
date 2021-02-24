@@ -25,8 +25,8 @@ How Fauna's temporality bridges the gap between static sites and dynamic Jamstac
 
 ## Thought leadership: 
 
-Dist Databases: Distributed system database tricks 101
-Dist Databases: A history of distributed database limitations 
-Rethinking e-commerce sites for the modern ERA. 
-Taming data-security with time-traveling 
-Are Jamstack sites more secure? 
+-Dist Databases: Distributed system database tricks 101
+-Dist Databases: A history of distributed database limitations 
+-Rethinking e-commerce sites for the modern ERA 
+-Taming data-security with time-traveling 
+-Are Jamstack sites more secure? 
