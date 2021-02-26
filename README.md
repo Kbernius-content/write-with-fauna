@@ -36,7 +36,7 @@ The Fauna team and technical editors will provide reviews until the article is r
 
 Once you’re post is published you will send an invoice to our team and get paid! 
 
-Note: The above is the general guidelines for our process, but we understand you likely have more questions. Please review our FAQ below for additional details about publishing rights, reward amounts, formatting, and review cycles. 
+Note: These general guidelines for our process, but we understand you likely have more questions. Please review our FAQ below for additional details about publishing rights, reward amounts, formatting, and review cycles. 
  
 Interested, but still have questions before submitting a topic? Please see our FAQ below and reach out to write@fauna.com with any additional questions and we will get back to you! 
 
