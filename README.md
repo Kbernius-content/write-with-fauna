@@ -4,7 +4,7 @@ Join in on the serverless community discussion, and grow your personal brand in 
 
 ## We are looking for articles that generally cover: 
 
-Articles that incorporate Fauna feature such as streaming and authentication  
+Articles that incorporate Fauna features such as streaming and 3rd party authentication (Auth0, Okta) 
 
 Step-by-step tutorials using Fauna and various programming frameworks including Go, Java, Python, React, Angular, Vue, RedwoodjS, Svelte, Next.JS, and Gatsby 
 
