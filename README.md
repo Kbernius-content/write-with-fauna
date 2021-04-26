@@ -4,6 +4,8 @@ Join in on the serverless community discussion, and grow your personal brand in 
 
 ## We are looking for articles that generally cover: 
 
+Articles that incorporate Fauna feature such as streaming and authentication  
+
 Step-by-step tutorials using Fauna and various programming frameworks including Go, Java, Python, React, Angular, Vue, RedwoodjS, Svelte, Next.JS, and Gatsby 
 
 Articles that illustrate features of Fauna including temporality, streaming, and multi-tenancy,
